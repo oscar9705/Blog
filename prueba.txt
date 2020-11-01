@@ -1,2 +1,4 @@
 este mensaje es de prueba para ver si se aprende algo nuevo
 soy oscar salazar, estudiante de ingeniería de sistemas
+
+Hoy estoy practicando git
